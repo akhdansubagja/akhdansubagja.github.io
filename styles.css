@@ -39,11 +39,11 @@ body {
 }
 
 .profile-pic {
-    width: 160px;
-    height: 160px;
+    width: 270px;
+    height: 270px;
     border-radius: 50%;
     object-fit: cover;
-    border: 8px solid #c5f1d6;
+    border: 8px solid #b3beb6;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
 }
